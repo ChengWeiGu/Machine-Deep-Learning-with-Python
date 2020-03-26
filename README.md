@@ -1,10 +1,6 @@
-# Python
-SOME EXAMPLES ARE PROVIDED FOR YOU
+## Introduction
+All of scripts are related to the following online course:  
+https://zh-tw.coursera.org/learn/machine-learning  
 
-THEY INCLUDE SOME BASIC MACHINE LEARNING ALGORITHMS AND SOME DEEP LEARNING ALGORITHMS
-
-YOU CAN DOWLOAD ALL EXAMPLES THAT YOU ARE INTERESTED IN
-
-IF YOU HAVE QUESTIONS ABOUT MY CODES. PLEASE MAKE YOUR COMMENT AND LET ME KNOW.
-
-THANKS FOR YOUR READING AND HOPE YOU ENJOY THEM.
+You can subscript the online course on coursera.  
+The homeworks are done by using python.
